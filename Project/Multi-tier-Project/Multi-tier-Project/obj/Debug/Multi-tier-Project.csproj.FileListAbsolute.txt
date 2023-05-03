@@ -1,0 +1,52 @@
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe.config
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.pdb
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.AssemblyReference.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Properties.Resources.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.GenerateResource.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.exe
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.pdb
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form1.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form2.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form3.resources
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe.config
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.pdb
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.AssemblyReference.cache
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form1.resources
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form2.resources
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form3.resources
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Properties.Resources.resources
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.GenerateResource.cache
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.exe
+C:\Users\Jean-Michel\Documents\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.pdb
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe.config
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.pdb
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.AssemblyReference.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form1.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form2.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form3.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Properties.Resources.resources
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.GenerateResource.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.exe
+C:\Users\jeanm\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\WindowsVM\Project 2\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.pdb
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe.config
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.exe
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\bin\Debug\Multi-tier-Project.pdb
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.AssemblyReference.cache
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form1.resources
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form2.resources
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Form3.resources
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi_tier_Project.Properties.Resources.resources
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.GenerateResource.cache
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.csproj.CoreCompileInputs.cache
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.exe
+C:\Users\Jean-Michel\Documents\2-MULTI-TIER APPLICATIONS DEVELOPMENT\Project\Multi-tier-Project\Multi-tier-Project\obj\Debug\Multi-tier-Project.pdb

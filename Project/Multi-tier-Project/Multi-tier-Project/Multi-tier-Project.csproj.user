@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartAction>Project</StartAction>
+    <StartProgram>C:\Users\Jean-Michel\Downloads\Azure.Functions.Cli.min.win-x64.4.0.5095\func.exe</StartProgram>
+    <StartArguments>host start</StartArguments>
+    <RemoteDebugMachine>10.0.0.80</RemoteDebugMachine>
+  </PropertyGroup>
+</Project>
